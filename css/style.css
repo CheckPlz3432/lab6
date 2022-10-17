@@ -14,13 +14,14 @@
   position: relative;
   float: left;
   display: block;
+  text-decoration: none;
 }
   
 #main-navbar ul li a {
   padding: 10px 20px;
   display: block;
   background-color: blue;
-  text-decoration: none;
+  
   position: relative;
  }
   
