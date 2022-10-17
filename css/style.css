@@ -5,6 +5,7 @@
   left: 50%;
   float: left;
   position: relative;
+  text-decoration: none;
   
 }
 
@@ -15,6 +16,8 @@
   overflow: hidden;
   display: block;
   padding: 10px 20px;
+  position: relative;
+  text-decoration: underline;
 }
   
 
@@ -28,9 +31,9 @@
   height: 100%;
   width: 20%;
   list-style-type: none;
-  text-align: center;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+  text-align: center;
+  background-color: red;
 }
 
 .sidebar-container {
-  background-color: red;
 }
