@@ -1,5 +1,5 @@
 #main-navbar {
-  background-color: blue;
+  background-color: #000;
 }
 
 #mainnavbar ul {
@@ -16,6 +16,7 @@
   float: left;
   display: block;
   text-decoration: none;
+  width: 100%;
 }
   
 #main-navbar ul li a {
@@ -24,11 +25,10 @@
   display: block;
   text-decoration: none;
   position: relative;
-  width: 100%;
  }
   
 #navbar-container ul li a:hover {
-  background-color: #000;
+  background-color: blue; 
   text-decoration: none;
 }
 
