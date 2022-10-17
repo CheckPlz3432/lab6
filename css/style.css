@@ -2,7 +2,7 @@
   background-color: blue;
 }
 
- #mainnavbar ul {
+#mainnavbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -16,12 +16,12 @@
   display: block;
 }
   
- #main-navbar ul li a {
-   padding: 10px 20px;
-   display: block;
-   color: #fff;
-   text-decoration: none;
-   position: relative;
+#main-navbar ul li a {
+  padding: 10px 20px;
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  position: relative;
  }
   
 #navbar-container ul li a:hover {
@@ -62,4 +62,3 @@
 #sidebar-container ul li a:hover {
   background-color: #000;
 }
-
