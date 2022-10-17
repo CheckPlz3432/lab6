@@ -10,7 +10,6 @@
 
 .navbar-container ul {
   left: 50%
-  float: left;
   position: relative;
   display: block;
 }
