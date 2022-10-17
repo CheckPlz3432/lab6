@@ -1,6 +1,6 @@
 #main-navbar {
   color: #fff;
-  width: 100%;
+  
 }
 
 #mainnavbar ul {
@@ -25,6 +25,7 @@
   background-color: blue;
   text-decoration: none;
   position: relative;
+  width: 100%;
  }
   
 #navbar-container ul li a:hover {
