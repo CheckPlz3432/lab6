@@ -28,11 +28,16 @@
   background-color: #000;
 }
 
-  #onpage {
+#onpage {
   text-decoration: underline overline;
 }
 
-
+#navbar-container {
+  right: 50%;
+  left: 50%;
+  width: 100%;
+  position: relative;
+}
 
 #sidebar {
   background-color: red;
@@ -54,6 +59,7 @@
   text-align: center;
   padding: 15px 0;
 
-.sidebar-container {
+#sidebar-container ul li a:hover {
+  background-color: #000;
 }
 
