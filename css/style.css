@@ -1,5 +1,5 @@
 #main-navbar {
-  background-color: #000;
+  background-color: blue;
 }
 
 #mainnavbar ul {
@@ -9,7 +9,7 @@
   display: block;
   overflow: hidden;
   text-decoration: none;
-  background-color: blue; 
+  background-color: #000;
 }
 
 #main-navbar ul li {
