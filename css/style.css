@@ -1,31 +1,31 @@
-.main-navbar {
-  list-style-type: none;
+#main-navbar {
   background-color: blue;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  position: relative;
-  float: left;
 }
 
-.navbar-container ul {
-  left: 50%
+ #mainnavbar #onpage ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; 
+  display: block;
+}
+
+#main-navbar ul li {
   position: relative;
+  float: left;
   display: block;
 }
   
  .navbar-container ul li a {
-  right: 50%;
-  position: relative;
-  float: left;
-  display: block;
-  color: #fff;
-  text-decoration: none;
-  padding: 10px 20px;
+   padding: 10px 20px;
+   display: block;
+   color: #fff;
+   text-decoration: none;
+   position: relative;
  }
 
   .navbar-container ul li a:hover {
-  background-color: blue;
+  background-color: #000;
 }
   
   .onpage {
@@ -38,6 +38,11 @@
   right: 0%;
   height: 100%;
   width: 20%;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  padding: 0;
 }
 
 .sidebar-container {
