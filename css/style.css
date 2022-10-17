@@ -1,14 +1,36 @@
 .main-navbar {
+  background-color: blue;
+  height: fit-content;
+  display: block;
+  left: 50%;
+  float: left;
+  position: relative;
+  
 }
 
 .navbar-container {
+  color: #fff;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden
+  display: block;
+  padding: 10px 20px;
 }
 
 .onpage {
+  
 }
 
-.sidebar { 
+.sidebar {
+  postion: fixed;
+  right: 0;
+  height: 100%
+  width: 20%;
+  list-style-type: none;
+  text-align: center;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 }
 
 .sidebar-container {
+  
 }
