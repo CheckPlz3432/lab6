@@ -1,13 +1,13 @@
 #main-navbar {
-  background-color: blue;
+  color: #fff;
 }
 
 #mainnavbar ul {
+  display: block;
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden; 
-  display: block;
+  overflow: hidden;
 }
 
 #main-navbar ul li {
@@ -19,7 +19,7 @@
 #main-navbar ul li a {
   padding: 10px 20px;
   display: block;
-  color: #fff;
+  background-color: blue;
   text-decoration: none;
   position: relative;
  }
