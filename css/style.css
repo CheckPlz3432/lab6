@@ -1,15 +1,14 @@
 #main-navbar {
-  color: #fff;
+  background-color: blue;
 }
 
 #mainnavbar ul {
-  display: block;
   list-style-type: none;
   margin: 0;
   padding: 0;
+  display: block;
   overflow: hidden;
   text-decoration: none;
-  
 }
 
 #main-navbar ul li {
@@ -20,11 +19,11 @@
 }
   
 #main-navbar ul li a {
+  color: #fff;
   padding: 10px 20px;
   display: block;
   text-decoration: none;
   position: relative;
-  background-color: blue;
   width: 100%;
  }
   
