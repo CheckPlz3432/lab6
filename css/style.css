@@ -17,8 +17,7 @@
   float: left;
   display: block;
   text-decoration: none;
-  background-color: blue;
-  width: 100%;
+  
 }
   
 #main-navbar ul li a {
@@ -26,6 +25,8 @@
   display: block;
   text-decoration: none;
   position: relative;
+  background-color: blue;
+  width: 100%;
  }
   
 #navbar-container ul li a:hover {
