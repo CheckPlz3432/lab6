@@ -2,7 +2,7 @@
   background-color: blue;
 }
 
- #mainnavbar #onpage ul {
+ #mainnavbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -16,23 +16,25 @@
   display: block;
 }
   
- .navbar-container ul li a {
+ #main-navbar ul li a {
    padding: 10px 20px;
    display: block;
    color: #fff;
    text-decoration: none;
    position: relative;
  }
-
-  .navbar-container ul li a:hover {
+  
+#navbar-container ul li a:hover {
   background-color: #000;
 }
-  
-  .onpage {
+
+  #onpage {
   text-decoration: underline overline;
 }
 
-.sidebar {
+
+
+#sidebar {
   background-color: red;
   position: fixed;
   right: 0%;
@@ -44,6 +46,13 @@
   list-style-type: none;
   padding: 0;
 }
+
+#sidebar ul li a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  padding: 15px 0;
 
 .sidebar-container {
 }
