@@ -16,6 +16,7 @@
   position: relative;
   display: block;
   padding: 10px 20px;
+  float: left;
 }
 
 #navbar-container {
