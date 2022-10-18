@@ -13,7 +13,6 @@
 
 #main-navbar ul li {
   position: relative;
-  float: left;
   text-decoration: none;
 }
 
@@ -28,16 +27,15 @@
   display: block;
   padding: 10px 20px;
   color: #fff;
-  text-decoration: none;
-
 }
 
 #navbar-container ul li a:hover {
   background-color: #000;
+  text-decoration: underline overline;
 }
 
 #onpage {
-  text-decoration: underline overline;
+  text-decoration: none;
 }
 
 #sidebar {
