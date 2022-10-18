@@ -9,12 +9,13 @@
   margin: 0;
   display: block;
   position: relative;
+  text-decoration: none;
 }
 
 #main-navbar ul li {
   position: relative;
   float: left;
-  text-decoration: none;
+  
 }
 
 #navbar-container {
