@@ -16,6 +16,7 @@
   position: relative;
   display: block;
   padding: 10px 20px;
+  text-decoration: none;
 }
 
 #navbar-container {
@@ -26,7 +27,7 @@
 }
 
 #navbar-container ul li a {
-  text-decoration: none;
+  position: relative;
 }
 
 #navbar-container ul li a:hover {
