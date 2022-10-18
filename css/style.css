@@ -13,6 +13,7 @@
 
 #main-navbar ul li {
   position: relative;
+  float: left;
   text-decoration: none;
 }
 
@@ -27,6 +28,8 @@
   display: block;
   padding: 10px 20px;
   color: #fff;
+  text-decoration: none;
+
 }
 
 #navbar-container ul li a:hover {
