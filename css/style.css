@@ -27,7 +27,6 @@
 
 #navbar-container ul li a {
   text-decoration: none;
-  position: relative;
 }
 
 #navbar-container ul li a:hover {
