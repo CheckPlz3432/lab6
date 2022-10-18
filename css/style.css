@@ -9,6 +9,7 @@
   display: block;
   overflow: hidden;
   background-color: #000;
+  position: relative;
 }
 
 #main-navbar ul li {
@@ -21,7 +22,7 @@
   position: relative;
   right: 50%;
   left: 50%;
-  width: 200%;
+  width: 100%;
 }
 
 #navbar-container ul li a {
